@@ -1,0 +1,2 @@
+# verilog-newbie
+Practice verilog
